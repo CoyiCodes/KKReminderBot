@@ -1,6 +1,4 @@
-maxChars = 280
-
-
+#Seperate new tweets with comma ","
 tweets = [
     "Ekrem Bey'in de ifade ettiği gibi seçim kaybedilmiştir. @kilicdarogluk #Kılıçdaroğluİstifa https://twitter.com/sadevatandasyt/status/1663132437067563010/video/1",
     "Bu dava sizsiz de olur @kilicdarogluk #Kılıçdaroğluİstifa",
