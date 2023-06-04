@@ -15,5 +15,4 @@ def tweet():
 
 
 if __name__ == "__main__":
-    # api = api()
     tweet()
